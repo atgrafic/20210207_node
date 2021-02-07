@@ -1,6 +1,6 @@
-console.log('hello');
+const functions = require("./functions");
 
-const helloWord=()=>{
-    console.log('hello Word');
-}
-helloWord();
+console.log("hello");
+
+functions.helloWord();
+functions.add(3, 2);
