@@ -1,0 +1,24 @@
+{
+  "name": "20210207_node",
+  "version": "1.0.0",
+  "description": "20210607node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atgrafic/20210207_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atgrafic/20210207_node/issues"
+  },
+  "homepage": "https://github.com/atgrafic/20210207_node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
